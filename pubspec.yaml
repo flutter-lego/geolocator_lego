@@ -16,7 +16,7 @@ dependencies:
   june_flow_util: #@add
   styled_widget: #@add
   modal_bottom_sheet: #@add
-  keyboard_attachable: #@add
+#  keyboard_attachable: #@add
   flutter_zoom_drawer: #@add
   flutter_screenutil:
   bot_toast:
